@@ -67,6 +67,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/OrellanaJhermiasT/OrellanaJhermiasT/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
 
 ###
