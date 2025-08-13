@@ -4,6 +4,15 @@
 
 ###
 
+<p align="center">
+  💻 Software Engineer from Lima, Peru | 🎯 Passionate about coding, problem-solving, and creating innovative tech solutions.<br>
+  📚 Student of Software Engineering | 🚀 Enthusiast in web development, game modding, and eco-efficient technologies.<br>
+  🎮 Gamer & Creator — combining creativity with logic to build unique projects.<br>
+  🌱 Always learning, always improving — from advanced algorithms to sustainable digital solutions.
+</p>
+
+
+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=OrellanaJhermiasT.OrellanaJhermiasT&"  />
 </div>
