@@ -74,6 +74,8 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/OrellanaJhermiasT/OrellanaJhermiasT/output/snake.svg" alt="Snake animation" />
 
 ###
