@@ -4,7 +4,7 @@
 
 ###
 
-<p align="center">
+<p align="left">
   💻 Software Engineer from Lima, Peru | 🎯 Passionate about coding, problem-solving, and creating innovative tech solutions.<br>
   📚 Student of Software Engineering | 🚀 Enthusiast in web development, game modding, and eco-efficient technologies.<br>
   🎮 Gamer & Creator — combining creativity with logic to build unique projects.<br>
