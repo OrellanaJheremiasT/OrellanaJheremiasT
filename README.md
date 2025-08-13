@@ -49,16 +49,10 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.instagram.com/orejhz" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://www.twitch.tv/d4rkrain" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitch logo"  />
-  </a>
-  <a href="https://x.com/D4rkr4inTtv" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
-  </a>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/orejhz)
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://www.twitch.tv/d4rkrain)
+[![X (Twitter)](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/D4rkr4inTtv)
+
 </div>
 
 ###
@@ -67,18 +61,12 @@
 
 ###
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=d4rkr4in&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=orellanajheremiast&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+ [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white)](https://discordapp.com/users/d4rkrain)
+ [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:orellanajheremiast@gmail.com)
 </div>
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OrellanaJhermiasT/OrellanaJhermiasT/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OrellanaJhermiasT/OrellanaJhermiasT/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/OrellanaJhermiasT/OrellanaJhermiasT/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/OrellanaJhermiasT/OrellanaJhermiasT/output/snake.svg" alt="Snake animation" />
 
 ###
-
