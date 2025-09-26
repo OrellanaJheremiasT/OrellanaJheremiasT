@@ -11,13 +11,12 @@
   🌱 Always learning, always improving — from advanced algorithms to sustainable digital solutions.
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OrellanaJheremiasT&theme=dark&show_icons=true)
-
-
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=OrellanaJhermiasT.OrellanaJhermiasT&"  />
 </div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OrellanaJheremiasT&theme=shadow_red&show_icons=true)
 
 
 ###
