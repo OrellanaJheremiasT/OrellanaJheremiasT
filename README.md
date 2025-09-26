@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/github/followers/OrellanaJheremiasT?style=social" />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=OrellanaJheremiasT.OrellanaJheremiasT" />
   <img src="https://img.shields.io/badge/License-MIT-yellow.svg" />
-  ![GitHub Contributions](https://img.shields.io/github/commit-activity/y/OrellanaJheremiasT?color=brightgreen)
+  <img src="https://img.shields.io/github/commit-activity/y/OrellanaJheremiasT?color=brightgreen" />
 
 </p>
 
