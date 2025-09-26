@@ -3,6 +3,15 @@
   💻 Software Engineer | 🎯 Problem Solver | 🚀 Tech Enthusiast
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/github/stars/OrellanaJheremiasT?style=social" />
+  <img src="https://img.shields.io/github/followers/OrellanaJheremiasT?style=social" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=OrellanaJheremiasT.OrellanaJheremiasT" />
+  <img src="https://img.shields.io/badge/License-MIT-yellow.svg" />
+
+
+</p>
+
 ---
 
 ### About Me
@@ -21,14 +30,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=OrellanaJheremiasT&theme=shadow_red&hide_border=false" />
 </p>
 
-<p align="left">
-  <img src="https://img.shields.io/github/stars/OrellanaJheremiasT?style=social" />
-  <img src="https://img.shields.io/github/followers/OrellanaJheremiasT?style=social" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=OrellanaJheremiasT.OrellanaJheremiasT" />
-  <img src="https://img.shields.io/badge/License-MIT-yellow.svg" />
 
-
-</p>
 
 ---
 
