@@ -17,6 +17,7 @@
 </div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OrellanaJheremiasT&theme=shadow_red&size_weight=0.5&count_weight=0.5)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OrellanaJheremiasT&theme=shadow_red&show_icons=true)
 
 
