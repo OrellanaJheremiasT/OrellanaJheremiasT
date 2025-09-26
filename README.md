@@ -11,7 +11,7 @@
   🌱 Always learning, always improving — from advanced algorithms to sustainable digital solutions.
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OrellanaJheremiasT_icons=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OrellanaJheremiasT_icons=true)](https://camo.githubusercontent.com/53a239a3eee29a7e85d38698d291acc64f2e9b961748be335232515abcd47058/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d7472756526686964653d636f6e74726962732c7072732663616368655f7365636f6e64733d3836343030267468656d653d736861646f775f726564)
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=OrellanaJheremiasT&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1"  />
