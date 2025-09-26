@@ -46,6 +46,7 @@
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)
 [![VS Code](https://img.shields.io/badge/VS%20Code-0078D7?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](https://www.kernel.org/)
+[![NetBeans](https://img.shields.io/badge/NetBeans-007BFF?logo=netbeans&logoColor=white)](https://netbeans.apache.org/)
 
 ---
 
