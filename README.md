@@ -11,7 +11,7 @@
   🌱 Always learning, always improving — from advanced algorithms to sustainable digital solutions.
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OrellanaJheremiasT_icons=true)
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=OrellanaJheremiasT&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1"  />
