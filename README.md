@@ -20,6 +20,11 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OrellanaJheremiasT&theme=shadow_red&show_icons=true)
 
+![Build Status](https://img.shields.io/github/actions/workflow/status/OrellanaJheremiasT/Notes-App/ci.yml?branch=main)
+![Last Commit](https://img.shields.io/github/last-commit/OrellanaJheremiasT/Notes-App)
+![License](https://img.shields.io/github/license/OrellanaJheremiasT/Notes-App)
+![Top Language](https://img.shields.io/github/languages/top/OrellanaJheremiasT/Notes-App)
+
 
 ###
 <br clear="both">
