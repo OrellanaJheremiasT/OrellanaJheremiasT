@@ -12,9 +12,8 @@
 
 
 
-<p align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OrellanaJheremiasT&theme=shadow_red&size_weight=0.5&count_weight=0.5)![Stars](https://img.shields.io/github/stars/OrellanaJheremiasT?style=social)![Followers](https://img.shields.io/github/followers/OrellanaJheremiasT?style=social)![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=OrellanaJhermiasT.OrellanaJhermiasT&)
-</p>
+
 
 
 
