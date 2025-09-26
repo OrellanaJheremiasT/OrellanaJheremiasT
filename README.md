@@ -52,7 +52,5 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:orellanajheremiast@gmail.com)
 
 ---
-
-### 📈 Activity
 ![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
 
