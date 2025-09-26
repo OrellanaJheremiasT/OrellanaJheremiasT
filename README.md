@@ -16,7 +16,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=OrellanaJhermiasT.OrellanaJhermiasT&"  />
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OrellanaJheremiasT&theme=shadow_red&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OrellanaJheremiasT&theme=dracula&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OrellanaJheremiasT&theme=shadow_red&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OrellanaJheremiasT&theme=shadow_red&layout=compact)
 
 
 ###
