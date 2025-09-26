@@ -25,6 +25,9 @@
   <img src="https://img.shields.io/github/stars/OrellanaJheremiasT?style=social" />
   <img src="https://img.shields.io/github/followers/OrellanaJheremiasT?style=social" />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=OrellanaJheremiasT.OrellanaJheremiasT" />
+  <img src="https://img.shields.io/github/commit-activity/m/OrellanaJheremiasT?color=red" />
+  <img src="https://img.shields.io/github/issues/OrellanaJheremiasT?color=yellow" />
+  <img src="https://img.shields.io/github/forks/OrellanaJheremiasT?color=blue" />
 </p>
 
 ---
@@ -38,6 +41,9 @@
 [![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)](https://isocpp.org/) 
 [![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/) 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)
+[![VS Code](https://img.shields.io/badge/VS%20Code-0078D7?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](https://www.kernel.org/)
 
 ---
 
@@ -49,9 +55,9 @@
 ---
 
 ### 📫 Contact Me
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white)](https://discordapp.com/users/d4rkrain)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:orellanajheremiast@gmail.com)
-
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white)](https://discordapp.com/users/d4rkrain)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:orellanajheremiast@gmail.com)
 
 ---
-![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
 
+![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
