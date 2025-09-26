@@ -26,8 +26,6 @@
   <img src="https://img.shields.io/github/followers/OrellanaJheremiasT?style=social" />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=OrellanaJheremiasT.OrellanaJheremiasT" />
   <img src="https://img.shields.io/github/commit-activity/m/OrellanaJheremiasT?color=red" />
-  <img src="https://img.shields.io/github/issues/OrellanaJheremiasT?color=yellow" />
-  <img src="https://img.shields.io/github/forks/OrellanaJheremiasT?color=blue" />
 </p>
 
 ---
