@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/github/followers/OrellanaJheremiasT?style=social" />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=OrellanaJheremiasT.OrellanaJheremiasT" />
   <img src="https://img.shields.io/badge/License-MIT-yellow.svg" />
-  <img src="https://github-readme-stats.vercel.app/api?username=OrellanaJheremiasT&show_icons=true&count_private=true&theme=shadow_red&hide_border=false />
+  <img src="https://github-readme-stats.vercel.app/api?username=OrellanaJheremiasT&show_icons=true&count_private=true&theme=shadow_red&hide_border=false" />
 
 
 </p>
