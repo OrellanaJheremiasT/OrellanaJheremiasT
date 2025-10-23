@@ -25,8 +25,6 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrellanaJheremiasT&theme=apprentice&size_weight=0.5&count_weight=0.5" />
   <img src="https://github-readme-stats.vercel.app/api?username=OrellanaJheremiasT&theme=apprentice&show_icons=true" />
-  ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=OrellanaJheremiasT&theme=apprentice&hide_border=false)
-
 </p>
 
 
