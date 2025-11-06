@@ -48,7 +48,7 @@
 ---
 
 ### 🌐 Social Media
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/orejhz) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/0rexhz) 
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://www.twitch.tv/d4rkrain) 
 [![X (Twitter)](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/D4rkr4inTtv)
 
