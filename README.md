@@ -12,12 +12,36 @@
 
 ---
 
-### About Me
-- 🌍 Based in Lima, Peru  
-- 🎓 Student of Software Engineering  
-- 🔥 Passionate about web development, game modding, and sustainable tech  
+### 👨‍💻 About Me
+- 🌍 Based in **Lima, Peru**  
+- 🎓 Student of **Software Engineering**  
+- 🔥 Passionate about **web development**, **game modding**, and **sustainable tech**  
 - 🎮 Gamer & Creator — combining creativity with logic to build unique projects  
 - 🌱 Lifelong learner — from advanced algorithms to eco-efficient digital solutions  
+
+---
+
+### 📘 Featured Project
+
+#### 🧠 Open Trivia Quiz (Terminal Edition) - v2.0  
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)
+![Version](https://img.shields.io/badge/Version-2.0-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+![API](https://img.shields.io/badge/API-Open%20Trivia%20DB-9cf)
+![DB](https://img.shields.io/badge/Database-Supabase-3fcf8e?logo=supabase)
+![Status](https://img.shields.io/badge/Status-Stable-brightgreen)
+
+> 🎮 A terminal-based trivia game that connects to the **Open Trivia DB API** and integrates with **Supabase** for player data, scores, and stats.  
+> Built with clean MVC structure and interactive terminal UI.
+
+**Key Features:**
+- ✅ Player registration & login (Supabase)
+- ✅ Score saving and leaderboard
+- ✅ Category and difficulty selection  
+- ✅ Clean MVC architecture  
+- ✅ Dynamic API questions  
+
+🔗 **Repository:** [github.com/OrellanaJheremiasT/TRIVIA-QUIZ-APP](https://github.com/OrellanaJheremiasT/TRIVIA-QUIZ-APP)
 
 ---
 
@@ -27,7 +51,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=OrellanaJheremiasT&theme=apprentice&show_icons=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=OrellanaJheremiasT&theme=apprentice&hide_border=false" />
 </p>
-
 
 ---
 
@@ -62,4 +85,3 @@
 ---
 
 ![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
-
