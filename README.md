@@ -55,22 +55,20 @@
 ---
 
 ### 💻 Languages & Tools
-<p align="center">
-  <!-- badges -->
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-  ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-  ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
-  ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-  ![VS Code](https://img.shields.io/badge/VS%20Code-0078D7?logo=visual-studio-code&logoColor=white)
-  ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?logo=apache-netbeans-ide&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-  ![Supabase](https://img.shields.io/badge/Database-Supabase-3fcf8e?logo=supabase&logoColor=white)
-</p>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D7?logo=visual-studio-code&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?logo=apache-netbeans-ide&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Supabase](https://img.shields.io/badge/Database-Supabase-3fcf8e?logo=supabase&logoColor=white)
+
 
 
 ---
