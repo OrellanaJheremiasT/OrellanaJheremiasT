@@ -55,19 +55,19 @@
 ---
 
 ### 💻 Languages & Tools
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://www.javascript.com/) 
-[![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)](https://www.java.com/) 
-[![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)](https://nodejs.org/) 
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) 
-[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) 
-[![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)](https://isocpp.org/) 
-[![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/) 
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
-[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)
-[![VS Code](https://img.shields.io/badge/VS%20Code-0078D7?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![NetBeans](https://img.shields.io/badge/NetBeans-007BFF?logo=netbeans&logoColor=white)](https://netbeans.apache.org/)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](https://www.kernel.org/)
-![DB](https://img.shields.io/badge/Database-Supabase-3fcf8e?logo=supabase)
+![JavaScript](https://img.shields.io/badge/JavaScript-3fcf8e?logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-3fcf8e?logo=java&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-3fcf8e?logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-3fcf8e?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-3fcf8e?logo=css3&logoColor=white)
+![C++](https://img.shields.io/badge/C++-3fcf8e?logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-3fcf8e?logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3fcf8e?logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-3fcf8e?logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-3fcf8e?logo=visual-studio-code&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-3fcf8e?logo=netbeans&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-3fcf8e?logo=linux&logoColor=black)
+![Supabase](https://img.shields.io/badge/Database-3fcf8e?logo=supabase&logoColor=white)
 
 ---
 
