@@ -44,6 +44,7 @@
 [![VS Code](https://img.shields.io/badge/VS%20Code-0078D7?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![NetBeans](https://img.shields.io/badge/NetBeans-007BFF?logo=netbeans&logoColor=white)](https://netbeans.apache.org/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](https://www.kernel.org/)
+![DB](https://img.shields.io/badge/Database-Supabase-3fcf8e?logo=supabase)
 
 ---
 
