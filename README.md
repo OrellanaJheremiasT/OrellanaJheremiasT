@@ -25,7 +25,7 @@
 
 #### 🧠 Open Trivia Quiz (Terminal Edition) - v2.0  
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)
-![Version](https://img.shields.io/badge/Version-2.0-green)
+![Version](https://img.shields.io/badge/Version-2.1-green)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 ![API](https://img.shields.io/badge/API-Open%20Trivia%20DB-9cf)
 ![DB](https://img.shields.io/badge/Database-Supabase-3fcf8e?logo=supabase)
