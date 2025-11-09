@@ -23,7 +23,7 @@
 
 ### 📘 Featured Project
 
-#### 🧠 Open Trivia Quiz (Terminal Edition) - v2.0  
+#### 🧠 Open Trivia Quiz (Terminal Edition) - v2.1  
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)
 ![Version](https://img.shields.io/badge/Version-2.1-green)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
