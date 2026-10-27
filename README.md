@@ -43,10 +43,8 @@ A retail-focused application designed to bring **products, store locations, inve
 
 | Project | What I built | Technologies |
 | :--- | :--- | :--- |
-| [**StockManager POO**](https://github.com/OrellanaJheremiasT/StockManager-POO) | Inventory management with user roles, audit logs, CSV persistence, and console/Swing interfaces. | `Java` `MVC` `Swing` `CSV` |
 | [**Open Trivia Quiz**](https://github.com/OrellanaJheremiasT/TRIVIA-QUIZ-APP) | Terminal quiz powered by Open Trivia DB, with user accounts, persistent scores, and leaderboards. | `Python` `REST API` `Supabase` `MVC` |
 | [**MBFD — Discord Music Bot**](https://github.com/OrellanaJheremiasT/MBFD) | Discord music bot with playback and voice-channel controls. | `Python` `discord.py` `yt-dlp` `FFmpeg` |
-| [**Pomodoro Clock**](https://github.com/OrellanaJheremiasT/Pomodoro-Clock) | Interactive terminal productivity timer with customizable sessions and pause/resume controls. | `Python` `CLI` |
 | [**Streamer Discord Bot**](https://github.com/OrellanaJheremiasT/StreamerDiscordBot) | Customizable Discord bot template for streamers, social links, and server information. | `Python` `discord.py` `Flask` |
 
 ### 🛠️ Tech Stack
