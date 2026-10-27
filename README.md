@@ -82,7 +82,7 @@ A retail-focused application designed to bring **products, store locations, inve
 
 ### 📊 GitHub Stats
 
-<div align="center">
+<div align="Left">
 
 ![OrellanaJheremiasT's Stats](https://github-readme-stats.vercel.app/api?username=OrellanaJheremiasT&theme=highcontrast&show_icons=true&hide_border=true&count_private=false)
 
