@@ -86,6 +86,7 @@ A retail-focused application designed to bring **products, store locations, inve
 
 ![OrellanaJheremiasT's Stats](https://github-readme-stats.vercel.app/api?username=OrellanaJheremiasT&theme=highcontrast&show_icons=true&hide_border=true&count_private=false)
 ![OrellanaJheremiasT's Streak](https://github-readme-streak-stats.herokuapp.com/?user=OrellanaJheremiasT&theme=highcontrast&hide_border=true)
+
 ![OrellanaJheremiasT's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OrellanaJheremiasT&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
 
 <sub>Language stats reflect repository code, not necessarily proficiency.</sub>
