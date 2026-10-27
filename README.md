@@ -1,89 +1,108 @@
-<h1 align="center">Hi 👋, I'm Jheremias Orellana</h1>
-<p align="center">
-  💻 Software Engineer | 🎯 Problem Solver | 🚀 Tech Enthusiast
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/github/stars/OrellanaJheremiasT?style=social" />
-  <img src="https://img.shields.io/github/followers/OrellanaJheremiasT?style=social" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=OrellanaJheremiasT.OrellanaJheremiasT" />
-  <img src="https://img.shields.io/badge/License-MIT-yellow.svg" />
-</p>
+# Hey, I'm Jheremias Orellana 👋
+
+### Software Engineering Student · Backend-Focused Developer
+
+Building practical software with **Java, Python, and modern web technologies**.
+
+[![Location](https://img.shields.io/badge/Lima%2C_Peru-171923?style=flat-square&logo=googlemaps&logoColor=8B5CF6)](https://github.com/OrellanaJheremiasT)
+[![GitHub followers](https://img.shields.io/github/followers/OrellanaJheremiasT?style=flat-square&label=Followers&color=8B5CF6)](https://github.com/OrellanaJheremiasT?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/OrellanaJheremiasT?style=flat-square&label=Stars&color=8B5CF6)](https://github.com/OrellanaJheremiasT?tab=stars)
+
+</div>
 
 ---
 
 ### 👨‍💻 About Me
-- 🌍 Based in **Lima, Peru**  
-- 🎓 Student of **Software Engineering**  
-- 🔥 Passionate about **web development**, **game modding**, and **sustainable tech**  
-- 🎮 Gamer & Creator — combining creativity with logic to build unique projects  
-- 🌱 Lifelong learner — from advanced algorithms to eco-efficient digital solutions  
 
----
+I'm a software engineering student based in **Lima, Peru**, with a growing focus on **backend development, API design, and software architecture**. I enjoy turning ideas into useful applications, from terminal tools and Discord bots to full-stack systems.
 
-### 📘 Featured Project
+- 🔭 **Currently building:** [Chops](https://github.com/OrellanaJheremiasT/Chops), an inventory and sales management application.
+- ⚙️ **Main interests:** Java, Spring Boot, Python, REST APIs, and relational databases.
+- 🧩 **How I build:** Object-oriented design, MVC, clean code, and iterative development.
+- 📚 **Currently improving:** Backend architecture, API development, and database integration.
 
-#### 🧠 Open Trivia Quiz (Terminal Edition) - v2.1  
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)
-![Version](https://img.shields.io/badge/Version-2.1-green)
-![License](https://img.shields.io/badge/License-MIT-yellow)
-![API](https://img.shields.io/badge/API-Open%20Trivia%20DB-9cf)
-![DB](https://img.shields.io/badge/Database-Supabase-3fcf8e?logo=supabase)
-![Status](https://img.shields.io/badge/Status-Stable-brightgreen)
+### 🚀 Currently Building
 
-> 🎮 A terminal-based trivia game that connects to the **Open Trivia DB API** and integrates with **Supabase** for player data, scores, and stats.  
-> Built with clean MVC structure and interactive terminal UI.
+<a href="https://github.com/OrellanaJheremiasT/Chops"><strong>Chops — Inventory & Sales Management</strong></a>
+&nbsp;
+![In development](https://img.shields.io/badge/Status-In_Development-8B5CF6?style=flat-square)
 
-**Key Features:**
-- ✅ Player registration & login (Supabase)
-- ✅ Score saving and leaderboard
-- ✅ Category and difficulty selection  
-- ✅ Clean MVC architecture  
-- ✅ Dynamic API questions  
+A retail-focused application designed to bring **products, store locations, inventory, and sales workflows** into one system.
 
-🔗 **Repository:** [github.com/OrellanaJheremiasT/TRIVIA-QUIZ-APP](https://github.com/OrellanaJheremiasT/TRIVIA-QUIZ-APP)
+**Stack:** `React` · `TypeScript` · `Vite` · `Java` · `Spring Boot` · `Maven`
 
----
+- Developing a responsive frontend with a consistent dark/light design system.
+- Organizing the app around product catalogs, store locations, inventory views, and sales.
+- Building the foundation for a Java/Spring Boot backend; API and database integration are part of the ongoing roadmap.
+
+**[Explore Chops →](https://github.com/OrellanaJheremiasT/Chops)**
+
+### 📌 Selected Projects
+
+| Project | What I built | Technologies |
+| :--- | :--- | :--- |
+| [**StockManager POO**](https://github.com/OrellanaJheremiasT/StockManager-POO) | Inventory management with user roles, audit logs, CSV persistence, and console/Swing interfaces. | `Java` `MVC` `Swing` `CSV` |
+| [**Open Trivia Quiz**](https://github.com/OrellanaJheremiasT/TRIVIA-QUIZ-APP) | Terminal quiz powered by Open Trivia DB, with user accounts, persistent scores, and leaderboards. | `Python` `REST API` `Supabase` `MVC` |
+| [**MBFD — Discord Music Bot**](https://github.com/OrellanaJheremiasT/MBFD) | Discord music bot with playback and voice-channel controls. | `Python` `discord.py` `yt-dlp` `FFmpeg` |
+| [**Pomodoro Clock**](https://github.com/OrellanaJheremiasT/Pomodoro-Clock) | Interactive terminal productivity timer with customizable sessions and pause/resume controls. | `Python` `CLI` |
+| [**Streamer Discord Bot**](https://github.com/OrellanaJheremiasT/StreamerDiscordBot) | Customizable Discord bot template for streamers, social links, and server information. | `Python` `discord.py` `Flask` |
+
+### 🛠️ Tech Stack
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+**Frameworks & Web**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
+
+**Databases & Developer Tools**
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrellanaJheremiasT&theme=apprentice&size_weight=0.5&count_weight=0.5" />
-  <img src="https://github-readme-stats.vercel.app/api?username=OrellanaJheremiasT&theme=apprentice&show_icons=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OrellanaJheremiasT&theme=apprentice&hide_border=false" />
-</p>
 
----
+<div align="center">
 
-### 💻 Languages & Tools
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?logo=codeforces&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
-![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?logo=apache-netbeans-ide&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3fcf8e?logo=supabase&logoColor=white)
+![OrellanaJheremiasT's Stats](https://github-readme-stats.vercel.app/api?username=OrellanaJheremiasT&theme=highcontrast&show_icons=true&hide_border=true&count_private=false)
 
+![OrellanaJheremiasT's Streak](https://github-readme-streak-stats.herokuapp.com/?user=OrellanaJheremiasT&theme=highcontrast&hide_border=true)
 
+![OrellanaJheremiasT's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OrellanaJheremiasT&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
 
----
+<sub>Language stats reflect repository code, not necessarily proficiency.</sub>
 
-### 🌐 Social Media
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/0rexhz) 
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://www.twitch.tv/d4rkrain) 
-[![X (Twitter)](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/D4rkr4inTtv)
+</div>
 
----
+### 🤝 Let's Connect
 
-### 📫 Contact Me
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white)](https://discordapp.com/users/d4rkrain) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:orellanajheremiast@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:orellanajheremiast@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/orejhz)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=flat-square&logo=twitch&logoColor=white)](https://www.twitch.tv/d4rkrain)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/D4rkr4inTtv)
 
----
+<div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
+<sub>Always learning. Always building.</sub>
+
+</div>
