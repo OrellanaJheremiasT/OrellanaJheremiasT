@@ -73,6 +73,8 @@ A retail-focused application designed to bring **products, store locations, inve
 **Databases & Developer Tools**
 
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -82,9 +84,10 @@ A retail-focused application designed to bring **products, store locations, inve
 
 ### 📊 GitHub Stats
 
-<div align="Left">
+<div align="center">
 
 ![OrellanaJheremiasT's Stats](https://github-readme-stats.vercel.app/api?username=OrellanaJheremiasT&theme=highcontrast&show_icons=true&hide_border=true&count_private=false)
+
 ![OrellanaJheremiasT's Streak](https://github-readme-streak-stats.herokuapp.com/?user=OrellanaJheremiasT&theme=highcontrast&hide_border=true)
 
 ![OrellanaJheremiasT's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OrellanaJheremiasT&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
