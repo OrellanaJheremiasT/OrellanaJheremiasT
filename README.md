@@ -139,7 +139,7 @@ A retail-focused application that brings **products, store locations, inventory,
 
 <div align="center">
 
-![Contribution snake example](https://github.com/<USERNAME>/<USERNAME>/blob/output/github-contribution-grid-snake.svg)
+![Contribution snake example](https://github.com/OrellanaJheremiasT/OrellanaJheremiasT/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
