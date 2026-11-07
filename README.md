@@ -107,13 +107,13 @@ A retail-focused application that brings **products, store locations, inventory,
 
 <p align="right">
   <img
-    width="58%"
+    width="48%"
     src="https://ghstats.dev/api/langs?username=OrellanaJheremiasT&max_langs=12"
     alt="Top Languages"
   />
   <br/>
   <img
-    width="58%"
+    width="48%"
     src="https://ghstats.dev/api/sparkline?username=OrellanaJheremiasT&days=30&width=400&height=80"
     alt="Last 30 Days"
   />
