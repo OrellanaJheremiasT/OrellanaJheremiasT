@@ -95,34 +95,36 @@ A retail-focused application that brings **products, store locations, inventory,
 
 
 
+
 ### 📊 GitHub Statistics
 
-<table style="border: none;">
-  <tr style="border: none;">
-    <td valign="top" style="border: none;">
-      <img
-        src="https://ghstats.dev/api/card?username=OrellanaJheremiasT&amp;border_radius=0&amp;hide=followers%2Cactive_day%2Cgrade"
-        width="500"
-        alt="GitHub Stats"
-      />
-    </td>
-    <td valign="top" style="border: none;">
-      <img
-        src="https://ghstats.dev/api/langs?username=OrellanaJheremiasT&amp;max_langs=12"
-        width="500"
-        alt="Top Languages"
-      />
-      <br/>
-      <img
-        src="https://ghstats.dev/api/sparkline?username=OrellanaJheremiasT&amp;days=30&amp;width=400&amp;height=80"
-        width="500"
-        alt="Last 30 Days"
-      />
-    </td>
-  </tr>
-</table>
+<img
+  align="left"
+  width="48%"
+  src="https://ghstats.dev/api/card?username=OrellanaJheremiasT&border_radius=7&hide=followers%2Cactive_day%2Cgrade"
+  alt="GitHub Stats"
+/>
+
+<p align="right">
+  <img
+    width="48%"
+    src="https://ghstats.dev/api/langs?username=OrellanaJheremiasT&max_langs=12"
+    alt="Top Languages"
+  />
+  <br/>
+  <img
+    width="48%"
+    src="https://ghstats.dev/api/sparkline?username=OrellanaJheremiasT&days=30&width=400&height=80"
+    alt="Last 30 Days"
+  />
+</p>
+
+<br clear="all"/>
 
 <sub>Language stats reflect repository code, not necessarily proficiency.</sub>
+
+---
+
 
 ---
 
