@@ -137,12 +137,7 @@ A retail-focused application that brings **products, store locations, inventory,
 
 ---
 
-
-### 🐍 Contribution Snake
-
-
-[![Snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
-</div>
+![Snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 
 <div align="center">
