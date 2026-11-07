@@ -99,7 +99,7 @@ A retail-focused application that brings **products, store locations, inventory,
 
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=OrellanaJheremiasT&border_radius=7&hide=followers%2Cactive_day%2Cgrade)|
 ![Top Languages](https://ghstats.dev/api/langs?username=OrellanaJheremiasT&max_langs=12)
-
+![Contribution Sparkline](https://ghstats.dev/api/sparkline?username=OrellanaJheremiasT&days=30&width=320&height=80)
 
 <sub>Language stats reflect repository code, not necessarily proficiency.</sub>
 
