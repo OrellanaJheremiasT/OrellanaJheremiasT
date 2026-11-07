@@ -94,27 +94,28 @@ A retail-focused application that brings **products, store locations, inventory,
 ---
 
 
+
 ### 📊 GitHub Statistics
 
-<table>
-  <tr>
-    <td valign="top">
+<table style="border: none;">
+  <tr style="border: none;">
+    <td valign="top" style="border: none;">
       <img
-        src="https://ghstats.dev/api/card?username=OrellanaJheremiasT&amp;border_radius=7&amp;hide=followers%2Cactive_day%2Cgrade"
-        width="500"
+        src="https://ghstats.dev/api/card?username=OrellanaJheremiasT&amp;border_radius=0&amp;hide=followers%2Cactive_day%2Cgrade"
+        width="400"
         alt="GitHub Stats"
       />
     </td>
-    <td valign="top">
+    <td valign="top" style="border: none;">
       <img
         src="https://ghstats.dev/api/langs?username=OrellanaJheremiasT&amp;max_langs=12"
-        width="500"
+        width="400"
         alt="Top Languages"
       />
       <br/>
       <img
         src="https://ghstats.dev/api/sparkline?username=OrellanaJheremiasT&amp;days=30&amp;width=400&amp;height=80"
-        width="500"
+        width="400"
         alt="Last 30 Days"
       />
     </td>
