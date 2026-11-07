@@ -97,7 +97,8 @@ A retail-focused application that brings **products, store locations, inventory,
 
 <div align="left">
 
-![GitHub Stats Card](https://ghstats.dev/api/card?username=OrellanaJheremiasT&border_radius=7&hide=followers%2Cactive_day%2Cgrade)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=OrellanaJheremiasT&border_radius=7&hide=followers%2Cactive_day%2Cgrade)|
+![Top Languages](https://ghstats.dev/api/langs?username=OrellanaJheremiasT&max_langs=12)
 
 
 <sub>Language stats reflect repository code, not necessarily proficiency.</sub>
