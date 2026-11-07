@@ -137,11 +137,26 @@ A retail-focused application that brings **products, store locations, inventory,
 
 ---
 
+
+### 🐍 Contribution Snake
+
 <div align="center">
-
-![Contribution snake example](https://github.com/OrellanaJheremiasT/OrellanaJheremiasT/blob/output/github-contribution-grid-snake.svg)
-
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/OrellanaJheremiasT/OrellanaJheremiasT/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/OrellanaJheremiasT/OrellanaJheremiasT/output/github-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/OrellanaJheremiasT/OrellanaJheremiasT/output/github-snake.svg"
+    />
+  </picture>
 </div>
+
 
 <div align="center">
 
