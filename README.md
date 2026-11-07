@@ -97,10 +97,8 @@ A retail-focused application that brings **products, store locations, inventory,
 
 <div align="left">
 
-<img src="https://github-readme-stats.vercel.app/api?username=OrellanaJheremiasT&theme=highcontrast&show_icons=true&hide_border=true&count_private=false" alt="GitHub Stats" />
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=OrellanaJheremiasT&border_radius=7&hide=followers%2Cactive_day%2Cgrade)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrellanaJheremiasT&theme=highcontrast&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
 
 <sub>Language stats reflect repository code, not necessarily proficiency.</sub>
 
