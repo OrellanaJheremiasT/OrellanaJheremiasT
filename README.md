@@ -104,7 +104,7 @@ A retail-focused application that brings **products, store locations, inventory,
 
 </div>
 
-<div aling="right">
+<div align="right">
 
 ![Top Languages](https://ghstats.dev/api/langs?username=OrellanaJheremiasT&max_langs=12)
 ![Contribution Sparkline](https://ghstats.dev/api/sparkline?username=OrellanaJheremiasT&days=30&width=320&height=80)
