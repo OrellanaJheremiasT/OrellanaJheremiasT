@@ -136,9 +136,9 @@ A retail-focused application that brings **products, store locations, inventory,
 [![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/D4rkr4inTtv)
 
 ---
-<div>
+
 [![Snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
-</div>
+
 
 <div align="center">
 
