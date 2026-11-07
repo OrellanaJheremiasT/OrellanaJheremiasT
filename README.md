@@ -99,9 +99,6 @@ A retail-focused application that brings **products, store locations, inventory,
 
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=OrellanaJheremiasT&border_radius=7&hide=followers%2Cactive_day%2Cgrade)
 
-
-
-
 </div>
 
 <div align="right">
