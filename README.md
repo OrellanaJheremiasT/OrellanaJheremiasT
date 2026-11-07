@@ -102,20 +102,20 @@ A retail-focused application that brings **products, store locations, inventory,
     <td valign="top" style="border: none;">
       <img
         src="https://ghstats.dev/api/card?username=OrellanaJheremiasT&amp;border_radius=0&amp;hide=followers%2Cactive_day%2Cgrade"
-        width="400"
+        width="500"
         alt="GitHub Stats"
       />
     </td>
     <td valign="top" style="border: none;">
       <img
         src="https://ghstats.dev/api/langs?username=OrellanaJheremiasT&amp;max_langs=12"
-        width="400"
+        width="500"
         alt="Top Languages"
       />
       <br/>
       <img
         src="https://ghstats.dev/api/sparkline?username=OrellanaJheremiasT&amp;days=30&amp;width=400&amp;height=80"
-        width="400"
+        width="500"
         alt="Last 30 Days"
       />
     </td>
