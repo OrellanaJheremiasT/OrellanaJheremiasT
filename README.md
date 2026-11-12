@@ -121,8 +121,6 @@ A retail-focused application that brings **products, store locations, inventory,
 
 <br clear="all"/>
 
-<sub>Language stats reflect repository code, not necessarily proficiency.</sub>
-
 ---
 
 ### 🤝 Contact & Social
